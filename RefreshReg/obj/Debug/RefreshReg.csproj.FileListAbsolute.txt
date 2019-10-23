@@ -1,0 +1,9 @@
+D:\C#Project\RefreshReg\RefreshReg\bin\Debug\RefreshReg.exe.config
+D:\C#Project\RefreshReg\RefreshReg\bin\Debug\RefreshReg.exe
+D:\C#Project\RefreshReg\RefreshReg\bin\Debug\RefreshReg.pdb
+D:\C#Project\RefreshReg\RefreshReg\obj\Debug\RefreshReg.Form1.resources
+D:\C#Project\RefreshReg\RefreshReg\obj\Debug\RefreshReg.Properties.Resources.resources
+D:\C#Project\RefreshReg\RefreshReg\obj\Debug\RefreshReg.csproj.GenerateResource.cache
+D:\C#Project\RefreshReg\RefreshReg\obj\Debug\RefreshReg.csproj.CoreCompileInputs.cache
+D:\C#Project\RefreshReg\RefreshReg\obj\Debug\RefreshReg.exe
+D:\C#Project\RefreshReg\RefreshReg\obj\Debug\RefreshReg.pdb
